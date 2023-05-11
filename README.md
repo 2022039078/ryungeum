@@ -4,7 +4,7 @@
 
 # REST API (OPEN API)를 Python으로 호출
 
-# 공공데이터포털- 충청북도 도서관 OPEN API 조회 서비스 이용
+# 공공데이터포털- OPEN API 조회 서비스 이용
 
 1. API명
 충청북도 도서관정보 
